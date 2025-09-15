@@ -92,7 +92,7 @@ Setup 4: 10h até às 14h
 
 Visão Consolidada: Visualize todos os setups em gráficos empilhados
 
-![Tela Layout](image.png)
+![Tela Layout](image.PNG)
 
 
 📝 Licença
